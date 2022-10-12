@@ -3,7 +3,7 @@
 $ck = $_GET["mode"];
 
 $class = array(
-    Словрь
+    Словарь
 );
 
 $color = array(
