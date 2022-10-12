@@ -15,7 +15,7 @@
 <body class="bg-dark text-light">
     <div class="container-fluid">
         <center>
-                <h1>Добро пожаловать, <span>Артем Шамов! </span></h1>
+                <h1>Добро пожаловать, <span>Учитель </span></h1>
                 <h2>Сегодня: <?= date('l jS \of F Y h:i:s A'); ?></h2>
                 <h3>Выберите число приговоренных:
                     <br />
