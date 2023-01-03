@@ -50,7 +50,7 @@ TXT;
     <div class="container-fluid">
         <center>
             <h1>
-                Сегодня "не повезло" Этим ЛЮДЯМ:<br>
+                Выбор пал на:<br>
                 <?php
                 for ($i = 0; $i < $ck; $i++) {
                     echo printchel($class, $color, $i, $ck);
